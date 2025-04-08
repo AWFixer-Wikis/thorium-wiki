@@ -1,8 +1,8 @@
 export default defineAppConfig({
   shadcnDocs: {
     site: {
-      name: "AWFixer Security Wiki",
-      description: "Community-driven security wiki.",
+      name: "AWFixer Thorium Wiki Wiki",
+      description: "Cult like Thorium wiki.",
     },
     theme: {
       customizable: true,
@@ -18,7 +18,7 @@ export default defineAppConfig({
       border: true,
     },
     header: {
-      title: "AWFixer Security Wiki",
+      title: "AWFixer Thorium Wiki",
       showTitle: true,
       darkModeToggle: true,
       logo: {
@@ -29,7 +29,7 @@ export default defineAppConfig({
       links: [
         {
           icon: "lucide:github",
-          to: "https://github.com/ZTL-UwU/shadcn-docs-nuxt",
+          to: "https://github.com/awfixer-wikis/thorium-wiki",
           target: "_blank",
         },
       ],
@@ -43,12 +43,12 @@ export default defineAppConfig({
       showTitle: true,
     },
     footer: {
-      credits: "Copyright © 2024",
+      credits: "Copyright © 2025",
       links: [
         {
           icon: 'lucide:heart',
           title: 'Sponsor Me',
-          to: 'https://support.awfixer.blog',
+          to: 'https://support.awfixer.wiki',
           target: '_blank',
         },
         {
@@ -58,12 +58,12 @@ export default defineAppConfig({
         },
         {
           icon: 'simple-icons:discord',
-          to: 'https://discord.gg/austinscave',
+          to: 'https://discord.gg/beBXaryXVC',
           target: '_blank',
         },
         {
           icon: 'lucide:github',
-          to: 'https://github.com/awfixer-security',
+          to: 'https://github.com/awfixer-wikis',
           target: '_blank',
         },
       ],
@@ -81,13 +81,13 @@ export default defineAppConfig({
         {
           title: "Star on GitHub",
           icon: "lucide:star",
-          to: "https://github.com/awfixer-security-wiki",
+          to: "https://github.com/awfixer-wikis/thorium-wiki",
           target: "_blank",
         },
         {
           title: "Create Issues",
           icon: "lucide:circle-dot",
-          to: "https://github.com/awfixer-security/security-wiki/issues",
+          to: "https://github.com/awfixer-wikis/thorium-wiki/issues",
           target: "_blank",
         },
       ],
